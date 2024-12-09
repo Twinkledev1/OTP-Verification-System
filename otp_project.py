@@ -18,7 +18,7 @@ def send_otp_email(receiver_email, otp):
     """
 
     # Email credentials and settings
-    sender_email = "trepalce with your gmail id"  # Replace with your email
+    sender_email = "repalce with your gmail id"  # Replace with your email
     sender_password = "use application password"        # Replace with your email password or app password
     subject = "Your OTP Code"
 
